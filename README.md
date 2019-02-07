@@ -1,6 +1,4 @@
 # Running
-Apps devoted to running 
-
 MPHtoPacePerMile takes a speed input (as MPH) and converts it to pace per mile.
 
 I created this because most treadmills these days do not show pace. Instead, they display speed in MPH, which most runners don't care about.
